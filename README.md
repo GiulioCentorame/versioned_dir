@@ -1,3 +1,8 @@
+# Versioned Directory
+
+[ ![Travis Build Status](https://travis-ci.org/GiulioCentorame/versioned_dir.svg?branch=master) ]
+(https://travis-ci.org/GiulioCentorame/versioned_dir)
+
 # Hello Brilliant, Useful GitHub
 
 This is a README.md file that will be used to describe this
